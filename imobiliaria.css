@@ -1,0 +1,106 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    font-family: verdana;
+
+}
+.secao1 {
+    text-align: center;
+    background-color: #efe9e9;
+    padding-bottom: 10px;
+    width: 100vw;
+}
+
+.logomarca {
+    width: 500px;
+}
+
+.menuinicial {
+    font-family: tahoma;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    color: black;
+    border: 1px solid #efe9e9;
+}
+
+.banner {
+    width: 100vw;
+}
+
+.imgparagrafo {
+    width: 300px;
+}
+
+.secao3, .secao4, .secao5, .secao6 {
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: normal;
+    color: maroon;
+    font-family: Constantia;
+}
+
+p {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: maroon;
+}
+
+.span3 {
+    font-weight: bold;
+    color: maroon;
+}
+
+.secao4, .secao6 {
+    background-color: #efe9e9;
+    padding: 10px 0px;
+}
+
+ul {
+    text-align: center;
+}
+
+.contatocorretores {
+    background-color: maroon;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+
+.emailcontato {
+    background-color: maroon;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 15px;
+    line-height: 40px;
+}
+
+.iframe {
+    width: 400px;
+    height: 400px;
+    border: none;
+}
+
+.secao6 {
+    margin-top: 25px;
+}
