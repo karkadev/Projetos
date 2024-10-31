@@ -84,6 +84,11 @@ ul {
     border-radius: 15px;
 }
 
+.contatocorretores:hover {
+    color: white;
+    text-decoration: underline;
+}
+
 .emailcontato {
     background-color: maroon;
     color: white;
@@ -93,6 +98,11 @@ ul {
     margin-top: 10px;
     border-radius: 15px;
     line-height: 40px;
+}
+
+.emailcontato:hover {
+    color: white;
+    text-decoration: underline;
 }
 
 .iframe {
