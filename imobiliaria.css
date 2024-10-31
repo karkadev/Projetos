@@ -9,6 +9,7 @@ body {
     background-color: #efe9e9;
     padding-bottom: 10px;
     width: 100vw;
+    max-width: 100%;
 }
 
 .logomarca {
